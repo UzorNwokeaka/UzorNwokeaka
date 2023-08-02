@@ -1,8 +1,8 @@
 Data Scientist
 
-My name is Uzor Nwokeaka. I'm a Data Scientist with interest in Machine Learning & Artificial Intelligence.  
+Hi there, My name is Uzor Nwokeaka. I'm a Data Scientist with interest in Machine Learning & Artificial Intelligence.  
 
-Skills and Experience
+**Skills and Experience**
 
 👩‍💻 Programming Languages (Python, SQL)
 
@@ -15,5 +15,6 @@ Skills and Experience
 👯 I’m looking to collaborate on Data Science Open Source Projects
 
 📫 How to reach me: uzor.nwokeaka@gmail.com
+
 😄 Pronouns: He/Him
 
