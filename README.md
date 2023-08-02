@@ -8,7 +8,7 @@ Hi there, My name is Uzor Nwokeaka. I'm a Data Scientist with interest in Machin
 
 📈 Data Visualization (PowerBI, Tableau)
 
-⚛ Machine Learning
+⚛ Machine Learning & Deep Learning
 
 💻 Computer Vision
 
