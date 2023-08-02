@@ -1,7 +1,9 @@
 Data Scientist
+
 My name is Uzor Nwokeaka. I'm a Data Scientist with interest in Machine Learning & Artificial Intelligence.  
 
 Skills and Experience
+
 👩‍💻 Programming Languages (Python, SQL)
 📈 Data Visualization (PowerBI, Tableau)
 ⚛ Machine Learning
