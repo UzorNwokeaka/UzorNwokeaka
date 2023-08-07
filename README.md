@@ -1,4 +1,4 @@
-Hi there, My name is Uzor Nwokeaka. I'm a Data Scientist with interest in Machine Learning, Deep Learning & Artificial Intelligence.  
+Hi there, My name is Uzor Nwokeaka. I'm a Data Scientist & ML Engineer with interest in Machine Learning, Deep Learning & Artificial Intelligence.  
 
 **Skills and Experience**
 
