@@ -12,7 +12,7 @@ I'm a Data Scientist & ML Engineer with interest in Machine Learning, Deep Learn
 
 💻 Computer Vision
 
-👩‍💻 Domain Expertise: Maths, Statistics, Finance, Fintech, Insurtech, Banking, Ecommerce, Retail
+👩‍💻 Domain Expertise: Maths, Statistics, Finance, Fintech, Insurtech, Banking, Ecommerce, Retail, Health, Gaming
 
 👯 I’m looking to collaborate on Data Science Open Source Projects
 
