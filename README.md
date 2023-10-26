@@ -4,7 +4,7 @@ I'm a Data Scientist & ML Engineer with interest in Machine Learning, Deep Learn
 
 **Skills and Experience**
 
-👩‍💻 Programming Languages (Python, SQL)
+👩‍💻 Programming Languages Python, SQL, Git, JavaScript, HTML, CSS, FastAPI
 
 📈 Data Visualization (PowerBI, Tableau)
 
