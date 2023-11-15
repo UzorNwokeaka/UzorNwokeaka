@@ -20,3 +20,4 @@ I'm a Data Scientist & Machine Learning Engineer.
 
 😄 Pronouns: He/Him
 
+👩‍💻 ex-Google KaggleX Mentee (Cohort 3)
