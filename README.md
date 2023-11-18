@@ -1,6 +1,6 @@
 Hi there, My name is Uzor Nwokeaka. 
 
-I'm a Data Scientist & Machine Learning Engineer.
+I'm a Data Scientist & Artificial Intelligence Engineer.
 
 **Skills and Experience**
 
