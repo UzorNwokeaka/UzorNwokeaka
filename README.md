@@ -1,10 +1,10 @@
 Hi there, My name is Uzor Nwokeaka. 
 
-I'm a Data Scientist & Artificial Intelligence Engineer.
+I'm a Data Scientist & Full Stack Software Developer.
 
 **Skills and Experience**
 
-👩‍💻 Programming Languages Python, SQL, Git, JavaScript, HTML, CSS, FastAPI
+👩‍💻 Programming Languages Python, SQL, Git, JavaScript, HTML5, CSS3, React, Node.js, FastAPI
 
 📈 Data Visualization (PowerBI, Tableau)
 
