@@ -4,7 +4,7 @@ I'm a Data Scientist & Full Stack Software Developer.
 
 **Skills and Experience**
 
-👩‍💻 Programming Languages Python, SQL, Git, JavaScript, HTML5, CSS3, React, Node.js, FastAPI
+👩‍💻 Programming Languages Python, SQL, PHP, Git, JavaScript, HTML5, CSS3, React, Node.js, FastAPI
 
 📈 Data Visualization (PowerBI, Tableau)
 
