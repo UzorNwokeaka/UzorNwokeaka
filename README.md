@@ -1,6 +1,6 @@
 Hi there, My name is Uzor Nwokeaka. 
 
-I'm a Data Scientist & Full Stack Software Developer.
+I'm a Data Scientist & Machine Learning / AI Engineer
 
 **Skills and Experience**
 
@@ -20,4 +20,4 @@ I'm a Data Scientist & Full Stack Software Developer.
 
 😄 Pronouns: He/Him
 
-👩‍💻 ex-Google KaggleX Mentee (Cohort 3)
+👩‍💻 KaggleX Advisor
