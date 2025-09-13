@@ -14,7 +14,7 @@ I'm a Data Scientist & Machine Learning / AI Engineer
 
 👩‍💻 Domain Expertise: Maths, Statistics, Finance, Fintech, Insurtech, Banking, Ecommerce, Retail, Health, Gaming
 
-👯 I’m looking to collaborate on Data Science Open Source Projects
+👯 I’m looking to collaborate on Data Science & AI Open Source Projects
 
 📫 How to reach me: uzor.nwokeaka@gmail.com
 
