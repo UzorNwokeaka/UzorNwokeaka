@@ -16,7 +16,7 @@ I'm a Data Scientist & Machine Learning / AI Engineer
 
 👯 I’m looking to collaborate on Data Science & AI Open Source Projects
 
-📫 How to reach me: uzor.nwokeaka@gmail.com
+📫 How to reach me: uzor.nwokeaka@gmail.com; www.linkedin.com/in/uzornwokeaka
 
 😄 Pronouns: He/Him
 
